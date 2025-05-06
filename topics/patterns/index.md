@@ -50,7 +50,7 @@ optimization algorithms to enhance usability. Together, they empower
 organizations to anticipate challenges, improve efficiency, and make smarter
 strategic choices across industries.
 
-* **Patterning**: AI patterning, also known as pattern recognication, involves
+* **Patterning**: AI patterning, also known as pattern recognition, involves
 training AI systems to identify recurring structures, trends, or behaviors in
 data—such as discovering repeated sequences in time-series data—using machine
 learning, deep learning, and statistical methods. Patterns also enables
