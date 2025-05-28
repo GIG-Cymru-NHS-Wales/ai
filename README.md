@@ -7,7 +7,7 @@ If you would like more information about this repository, and would like to be i
 GIG Cymru - NHS Wales - Extranet:
 
 * [Artificial Intelligence - AI](https://dhcw.nhs.wales/data/artificial-intelligence-ai/)
-* 
+
 * [How we're working with AI](https://dhcw.nhs.wales/data/artificial-intelligence-ai/how-were-working-with-ai/)
 
 * [How AI can revolutionise healthcare shared at Big Data event](https://dhcw.nhs.wales/news/latest-news/how-ai-can-revolutionise-healthcare-shared-at-big-data-event/)
