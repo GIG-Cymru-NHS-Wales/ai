@@ -20,7 +20,7 @@ GIG Cymru - NHS Wales - Intranet:
 
 ## Awesome AI
 
-THis is a curated list of awesome things related to artificial intelligence (AI).
+This is a curated list of awesome things related to artificial intelligence (AI).
 
 <https://github.com/re50urces/Awesome-AI>
 
@@ -29,6 +29,9 @@ THis is a curated list of awesome things related to artificial intelligence (AI)
 | --- | --- |
 | [ChatGPT](https://chat.openai.com/?ref=awe50meAI) |  |
 | [Google Gemini](https://gemini.google.com/?ref=awe50meAI) | Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.  |
+| [Anthropic](https://www.anthropic.com/?ref=awe50meAI) | AI research and products that put safety at the frontier |
+| [Claude](https://claude.ai/?ref=awe50meAI) | Claude is a next generation AI assistant built by Anthropic and trained to be safe, accurate, and secure to help you do your best work. |
+| [OpenRouter](https://openrouter.ai/?ref=awe50meAI) | OpenRouter provides a unified API that gives you access to hundreds of AI models through a single endpoint |
 | [Poe](https://poe.com/?ref=awe50meAI) | Fast, Helpful AI Chat |
 | [Chat D-ID](https://chat.d-id.com/?ref=awe50meAI) |  |
 | [Dialogflow](https://cloud.google.com/dialogflow/?ref=awe50meAI) |  |
@@ -58,6 +61,32 @@ THis is a curated list of awesome things related to artificial intelligence (AI)
 | [godmode](https://godmode.space/?ref=awe50meAI) |   |
 | [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
 
+### conversational AI (local hosting)
+| Awesome | Description |
+| --- | --- |
+| [Ollama](https://www.ollama.com/?ref=awe50meAI) | Get up and running with large language models locally. |
+| [LM Studio](https://lmstudio.ai/?ref=awe50meAI) | Your local AI toolkit. |
+| [MSTY AI](https://msty.app/?ref=awe50meAI) | The easiest way to use local and online AI models |
+
+### AI useful frameworks and templates
+| Awesome | Description |
+| --- | --- |
+| [.NET AI chat app template](https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview1/?ref=awe50meAI) | Recently announced .NET template for building Chat applications |
+| [Autogen](https://github.com/microsoft/autogen?ref=awe50meAI) | Framework for building AI agents and applications |
+| [Azure AI foundry](https://ai.azure.com/?ref=awe50meAI) | provides a unified platform for enterprise AI operations, model builders, and application development. |
+| [ACI.dev](https://github.com/aipotheosis-labs/aci?ref=awe50meAI) | ACI.dev is the open-source infrastructure layer for AI-agent tool-use. |
+| [Llama CPP](https://github.com/ggml-org/llama.cpp?ref=awe50meAI) | enable LLM inference with minimal setup and state-of-the-art performance on a wide range of hardware - locally and in the cloud. |
+
+### AI useful development guides and documentation
+| Awesome | Description |
+| --- | --- |
+| [Getting started with Azure AI](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/?ref=awe50meAI) | Course to develop an awareness of machine learning and AI |
+| [AI prompt best practice guide](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api?ref=awe50meAI) | Guide on the effectiveness of appropriate prompt usage |
+| [Langchain documentation](https://python.langchain.com/docs/?ref=awe50meAI) | Langchain documentation which can be used for developing full scale chat applications |
+| [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf?ref=awe50meAI) | Guide on the building of multi-use agent systems |
+| [Building MCP functions](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms?ref=awe50meAI) | Guide on how to build MCP server/clients and how to implement them within a chat |
+| [Github marketplace](https://github.com/marketplace?ref=awe50meAI) | A very good collection of hosted LLMs and code examples for development use, licensing required |
+
 ### All-in-one tools
 | Awesome | Description |
 | --- | --- |
@@ -74,7 +103,7 @@ THis is a curated list of awesome things related to artificial intelligence (AI)
 | [phind](https://www.phind.com/?ref=awe50meAI) |     The AI search engine for developers.  |
 | [you](https://you.com/?ref=awe50meAI) |     The AI Search Engine You Control  |
 | [iAsk.AI](https://iask.ai/?ref=awe50meAI) |     Ask AI Questions – Free AI Search Engine  |
-| [komo](https://komo.ai/?ref=awe50meAI) |     Komo search - Ai Search & Explore  |
+| [komo](https://komo.ai?ref=awe50meAI) |     Komo search - Ai Search & Explore  |
 | [Andi](https://andisearch.com/?ref=awe50meAI) |     Welcome to the next generation of search using the power of AI  |
 
 ### AI writing tools
@@ -388,7 +417,7 @@ THis is a curated list of awesome things related to artificial intelligence (AI)
 | [drenaline](https://useadrenaline.com/app?ref=awe50meAI) |     An AI-powered debugger   [GitHub repository](https://github.com/shobrook/adrenaline/)  | 
 | [AI CODE](https://aicode-weld.vercel.app/?ref=awe50meAI) |     Turn text into HTML&CSS with AI  |
 | [Stunning.so](https://stunning.so/?ref=awe50meAI) |     Build websites with AI.i  |
-| [codeium](https://codeium.com/?ref=awe50meAI) |     AI-Powered Autocomplete  |
+| [Windsurf (previously Codeium)](https://windsurf.com/?ref=awe50meAI) |     Agentic-AI powered IDE with free/premium tier, including MCP support  |
 | [Ghostwriter](https://replit.com/site/ghostwriter/?ref=awe50meAI) |     Meet Ghostwriter, your partner in code.  |
 | [Lightning AI](https://lightning.ai/?ref=awe50meAI) |     The platform for teams to build AI, without the headaches  |
 | [CommitAI](https://github.com/fengyiqicoder/CommitAi-Free?ref=awe50meAI) |     Let AI Handle Your Commit Messages  |
@@ -402,6 +431,7 @@ THis is a curated list of awesome things related to artificial intelligence (AI)
 | [blackbox AI](https://www.useblackbox.io/?ref=awe50meAI) |  {Code} As Fast As You Think.  |
 | [ZZZ Code AI](https://zzzcode.ai/?ref=awe50meAI) |  Website to ask any programming question or get a code generated by AI |
 | [screenshot-to-code](https://github.com/abi/screenshot-to-code?ref=awe50meAI) |  Drop in a screenshot and convert it to clean HTML/Tailwind/JS code |
+| [Void AI](https://voideditor.com/?ref=awe50meAI) |  Agentic IDE with Local/hosted LLM options, no MCP support |
 
 ### AI color tools
 | Awesome | Description |
