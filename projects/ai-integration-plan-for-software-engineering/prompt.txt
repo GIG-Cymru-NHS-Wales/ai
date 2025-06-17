@@ -1,0 +1,7 @@
+Generate a business plan for phasing in AI for software engineering staff. The target audience is our organization executives with roles of CEO, CTO, CIO, CRO.
+
+Now: Train our organization's software engineers how to use AI code assistants for immediate tasks, including automatic testing, security compliance, and user-centered design. Use all public open source software, public synthetic data, and public collaboration with peer organizations.
+
+Next: Phase in AI for larger-scope areas, including automatic code commits, automatic code quality scanning, and automatic refactoring. This depends on us working to to provide more public open source software, more public synthetic data, and more public collaboration with peer organization.
+
+Later: When we mature in our AI usage, then phase in enterprise-wide AI code assistants, including automatic connections to our internal confidential source code, internal real data, and internal contractor organizations.
