@@ -1,0 +1,51 @@
+Quality
+
+Quality standards for product management, project management, programme management:
+
+- ISO 9000: This standard defines the fundamental concepts and vocabulary of quality management, including the seven quality management principles. 
+
+- ISO 9001: This standard outlines the requirements for a quality management system (QMS), helping organizations improve their processes, meet customer expectations, and comply with regulations. 
+
+- Web Content Accessibility Guidelines 2 (WCAG 2): for accessibility, usability, disability, legal compliance.
+
+Information security standards for AI security programmes including policies, audits, regulatory compliance. Realted information governance., risk assessment.
+
+- ISO 27001: pros: asset inventory, role-based access, incident response.
+
+- ISO 27001: cons: model-integrity testing, bias/hallucination metrics.
+
+- NIST CSF: pros: identify–protect–detect–respond–recover lifecycle
+
+- NIST CSF: cons: translation to concrete AI controls; ethics/safety.
+
+- SOC 2: pros: proof of operational rigour, data-handling controls.
+
+- SOC 2: cons: prompt-injection resilience, content accuracy.
+
+- CIS Controls v8: pros: hardening infrastructure, patching, logging, IR drills.
+
+- CIS Controls v8: cons: dataset provenance, red-teaming models.
+
+- CCSS: pros: key custody & transaction integrity for crypto apps.
+
+- CCSS: cons: broader ML risks, prompt security, supply-chain tampering.
+
+- EU AI Act: relevance: first binding, risk-tiered AI law; GPAI and “frontier” models get special duties.
+
+- EU AI Act: action items: duild a tech file (data lineage, red-team logs), prepare for CE-mark audits.
+
+- U.S. agency/industry playbook: relevance: sector guidance + voluntary big-tech commitments set de-facto rules.
+
+- U.S. agency/industry playbook: action items: align controls to NIST AI RMF; publish model cards, watermark outputs.
+
+- NIST AI RMF 1.0: relevance: lifecycle framework — Govern → Map → Measure → Manage — with GenAI profile.
+
+- NIST AI RMF 1.0: action items: create an internal RMF profile and risk register for prompt-injection, hallucination, bias.
+
+- OECD AI Principles: relevance: global ethical compass echoed by EU & G20.
+
+- OECD AI Principles: action items: reference in policies; show fairness / transparency metrics in customer docs.
+
+- ISO/IEC 42001: relevance: first certifiable AI-management system; pairs with ISO 27001.
+
+- ISO/IEC 42001: action items: extend ISMS to 42001; plan certification to reassure clients and regulators.
