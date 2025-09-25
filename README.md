@@ -511,3 +511,17 @@ This is a curated list of awesome things related to artificial intelligence (AI)
 | [glass.ai](https://www.glass.ai/?ref=awe50meAI)| Transforming sector and company research with AI |
 | [ROCKSET](https://rockset.com/?ref=awe50meAI)| Build blazing fast search and AI applications in record time |
 | [fal](https://fal.ai/?ref=awe50meAI)| Build real-time AI applications with lightning fast inference (under ~120ms). |
+
+## AI ambient scribes for health care and medical purposes
+
+- [Guidance on the use of AI-enabled ambient scribing products in health and care settings - By NHS Englnd](https://www.england.nhs.uk/long-read/guidance-on-the-use-of-ai-enabled-ambient-scribing-products-in-health-and-care-settings/)
+
+- [Use and adoption of AI ambient scribes in general practice - By Londonwide LMCs](https://www.lmc.org.uk/resources/use-and-adoption-of-ai-ambient-scribes-in-general-practice/)
+
+- [The Utility and Implications of Ambient Scribes in Primary Care](https://ai.jmir.org/2024/1/e57673)
+
+- [Clinician Experiences With Ambient Scribe Technology to Assist With Documentation Burden and Efficiency](https://pmc.ncbi.nlm.nih.gov/articles/PMC11840636/)
+
+- [Ambient Artificial Intelligence Scribes: Learnings after 1 Year and over 2.5 Million Uses](https://catalyst.nejm.org/doi/full/10.1056/CAT.25.0040)
+
+- [AI Scribes in Health Care: Balancing Transformative Potential With Responsible Integration](https://pmc.ncbi.nlm.nih.gov/articles/PMC12316405/)
