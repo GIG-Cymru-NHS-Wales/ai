@@ -554,6 +554,12 @@ Good paper & author:
 
 - [Goran Nenadic](https://research.manchester.ac.uk/en/persons/gnenadic) -  Professor of Computer Science, Natural Language Processing and Text Mining, University of Manchester and a Turing Fellow at the Alan Turing Institute. 
 
+Good codelist generation paper & author:
+
+- [An automation framework for clinical codelist development validated with UK data from patients with multiple long-term conditions](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-025-02541-1)
+
+- [Asra Aslam](https://sheffield.ac.uk/ijc/people/asra-aslam) - Lecturer in Data Science, University of Sheffield
+
 Good UK college & team:
 
 - [Medical information AI Data Extractor (MiADE)](https://www.ucl.ac.uk/population-health-sciences/health-informatics/research/medical-information-ai-data-extractor-miade)
