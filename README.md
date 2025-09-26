@@ -525,3 +525,51 @@ This is a curated list of awesome things related to artificial intelligence (AI)
 - [Ambient Artificial Intelligence Scribes: Learnings after 1 Year and over 2.5 Million Uses](https://catalyst.nejm.org/doi/full/10.1056/CAT.25.0040)
 
 - [AI Scribes in Health Care: Balancing Transformative Potential With Responsible Integration](https://pmc.ncbi.nlm.nih.gov/articles/PMC12316405/)
+
+## AI for SNOMED CT coding
+
+What is SNOMED CT?
+
+- [SNOMED CT is a clinical vocabulary readable by computers - digital.nhs.uk](https://digital.nhs.uk/services/terminology-and-classifications/snomed-ct)
+
+- [SNOMED CT browser - digital.nhs.uk](https://termbrowser.nhs.uk/?perspective=full&conceptId1=404684003&edition=uk-edition&release=v20250730&server=https://termbrowser.nhs.uk/sct-browser-api/snomed&langRefset=999001261000000100,999000691000001104)
+
+Examples of AI Tools for SNOMED CT:
+
+- [Freed](https://www.getfreed.ai/) - Purpose‑built AI medical scribe delivering note accuracy, effortless workflow, and real‑human support. 
+
+- [TachyHealth AiCode](https://www.tachyhealth.com/solution-ai-code) - This system converts unstructured medical charts into SNOMED CT codes.
+
+- [HealthOrbit AI](https://healthorbit.ai/) Your Clinical Co-Pilot - NHS UK approved - Class I Software as a Medical Device
+
+Good post & author:
+
+- [Generative AI and Clinical Coding - How clinical coding works, about SNOMED, ICD, and other coding systems, and why Generative AI fails at clinical coding](https://hadasbitran.substack.com/p/generative-ai-and-clinical-coding)
+
+- [Hadas Bitran](https://www.linkedin.com/in/hadas-bitran/) - Partner GM, Health AI, Microsoft Health & Life Sciences
+
+Good paper & author:
+
+- [A Comparative Study on Automatic Coding of Medical Letters with Explainability](https://arxiv.org/html/2407.13638v1)
+
+- [Goran Nenadic](https://research.manchester.ac.uk/en/persons/gnenadic) -  Professor of Computer Science, Natural Language Processing and Text Mining, University of Manchester and a Turing Fellow at the Alan Turing Institute. 
+
+Good UK college & team:
+
+- [Medical information AI Data Extractor (MiADE)](https://www.ucl.ac.uk/population-health-sciences/health-informatics/research/medical-information-ai-data-extractor-miade)
+
+- [University College London - Population Health Sciences - Health Informatics](https://www.ucl.ac.uk/population-health-sciences/health-informatics)
+
+- [University College London Hospital - Biomedical Research Centre](https://www.uclhospitals.brc.nihr.ac.uk/core-themes/safehr)
+
+Good prompt store & author:
+
+- [GPT Store](https://gptstore.ai/) - Discover the Best GPTs of ChatGPT
+
+- [GPT "SNOMED Navigator"](https://app.aiprm.com/gpts/g-9ZNF3eyFj/snomed-navigator) - Maps medical terms to SNOMED codes
+
+- [Nicole Göbel](https://gptstore.ai/creators/user-2vYARDE2s9RFJWovbZORSYzD) - GPT store tools for SNOMED, LOINC, and much more
+
+- [Nicole Göbel](https://www.researchgate.net/profile/Nicole-Goebel-2) - PhD, CAS ETH STATResearch Associate at Universitätsspital Basel
+
+- [Secondary use of routine data in hospitals: description of a scalable analytical platform based on a business intelligence system](https://www.researchgate.net/publication/327787344_Secondary_use_of_routine_data_in_hospitals_description_of_a_scalable_analytical_platform_based_on_a_business_intelligence_system)
