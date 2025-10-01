@@ -18,6 +18,10 @@ GIG Cymru - NHS Wales - Intranet:
 
 - [Artificial Intelligence Community of Interest](https://nhswales365.sharepoint.com/sites/DHC_DS/SitePages/AI-Project.aspx)
 
+## DHCW Generative AI prompt guidance
+This is designed for general use. It is not designed to be a guide to prompt engineering.
+-  [https://nhswales365.sharepoint.com/:u:/r/sites/DHC_DS/SitePages/AI-Project.aspx?csf=1&web=1&e=hTD7iG).
+
 ## Awesome AI
 
 This is a curated list of awesome things related to artificial intelligence (AI).
