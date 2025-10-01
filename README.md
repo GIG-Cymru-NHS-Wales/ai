@@ -20,7 +20,7 @@ GIG Cymru - NHS Wales - Intranet:
 
 ## DHCW Generative AI prompt guidance
 This is designed for general use. It is not designed to be a guide to prompt engineering.
--  [https://nhswales365.sharepoint.com/:u:/r/sites/DHC_DS/SitePages/AI-Project.aspx?csf=1&web=1&e=hTD7iG).
+-  https://nhswales365.sharepoint.com/:u:/r/sites/DHC_DS/SitePages/AI-Project.aspx?csf=1&web=1&e=hTD7iG 
 
 ## Awesome AI
 
