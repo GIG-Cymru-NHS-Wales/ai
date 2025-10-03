@@ -30,7 +30,7 @@ Beginners:
 
 - [Leverage AI tools and resources for your business](https://learn.microsoft.com/en-us/training/modules/leverage-ai-tools/)
 
-- [Create business value from AI](https://learn.microsoft.com/en-us/training/modules/create-business-value/
+- [Create business value from AI](https://learn.microsoft.com/en-us/training/modules/create-business-value/)
 
 - [Embrace responsible AI principles and practices](https://learn.microsoft.com/en-us/training/modules/embrace-responsible-ai-principles-practices/)
 
