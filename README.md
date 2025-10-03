@@ -22,6 +22,44 @@ GIG Cymru - NHS Wales - Intranet:
 This is designed for general use. It is not designed to be a guide to prompt engineering.
 -  https://nhswales365.sharepoint.com/:u:/r/sites/DHC_DS/SitePages/AI-Project.aspx?csf=1&web=1&e=hTD7iG 
 
+## Introductory courses: mainstreaming AI
+
+Beginners:
+
+- [Explore AI basics](https://learn.microsoft.com/en-us/training/modules/explore-ai-basics/)
+
+- [Leverage AI tools and resources for your business](https://learn.microsoft.com/en-us/training/modules/leverage-ai-tools/)
+
+- [Create business value from AI](https://learn.microsoft.com/en-us/training/modules/create-business-value/
+
+- [Embrace responsible AI principles and practices](https://learn.microsoft.com/en-us/training/modules/embrace-responsible-ai-principles-practices/)
+
+- [Explore responsible AI](https://learn.microsoft.com/en-us/training/modules/responsible-ai/)
+
+Microsoft 365 Copilot:
+
+- [Introduction to Microsoft 365 Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-copilot/)
+
+- [Explore the possibilities with Microsoft 365 Copilot](https://learn.microsoft.com/en-us/training/modules/explore-possibilities-microsoft-365-copilot/)
+
+- [Optimize and extend Microsoft 365 Copilot](https://learn.microsoft.com/en-us/training/modules/optimize-and-extend-microsoft-365-copilot/)
+
+- [Create and draft with Microsoft 365 Copilot](https://learn.microsoft.com/en-us/training/modules/create-draft-content-with-microsoft-copilot-microsoft-365/)
+
+- [Edit and transform content with Microsoft 365 Copilot](https://learn.microsoft.com/en-us/training/modules/edit-transform-content-with-microsoft-copilot-microsoft-365/)
+
+- [Ask questions and analyze content with Microsoft 365 Copilot](https://learn.microsoft.com/en-us/training/modules/ask-analyze-content-with-microsoft-copilot-microsoft-365/)
+
+Strategy:
+
+- [Define a Microsoft AI strategy to create business value in healthcare](https://learn.microsoft.com/en-us/training/modules/define-microsoft-ai-strategy-healthcare/)
+
+- [Define a Microsoft AI strategy to create business value in finance](https://learn.microsoft.com/en-us/training/modules/define-microsoft-ai-strategy-finance/)
+
+- [Define a Microsoft AI strategy to create business value in sustainability](https://learn.microsoft.com/en-us/training/modules/define-microsoft-ai-strategy-sustainability/)
+
+- [Define a Microsoft AI strategy to create business value in nonprofit](https://learn.microsoft.com/en-us/training/modules/define-microsoft-ai-strategy-create-business-value-nonprofit/)
+
 ## Awesome AI
 
 This is a curated list of awesome things related to artificial intelligence (AI).
